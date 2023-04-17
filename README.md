@@ -19,6 +19,6 @@ python main.py
 Vous serez invité à entrer le nombre de mots de passe à générer, la longueur des mots de passe, ainsi que les types de caractères à inclure (majuscules, minuscules, chiffres et caractères spéciaux). Le programme affichera ensuite les mots de passe générés.
 
 # Aperçu
-                  ![Capture](https://user-images.githubusercontent.com/82214916/232370077-615ce066-b503-494c-ad0e-f865240665c9.PNG)
+![Capture](https://user-images.githubusercontent.com/82214916/232370077-615ce066-b503-494c-ad0e-f865240665c9.PNG)
 
 
